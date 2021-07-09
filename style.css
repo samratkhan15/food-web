@@ -37,6 +37,58 @@ h3{
     text-align: center;
 }
 
-.reci{
+
+
+
+.food-item{
+    width: 40%;
+    margin-left: 5%;
+   margin-right: 5%;
+   padding-left: 20%;
+   box-shadow: 10px 10px 40px gray;
+   border-radius: 10px;
+  
+}
+
+
+
+.recipies-details{
+    text-align: center;
+}
+
+
+.text-align{
+    background-color: white;
+    text-align: center;
+}
+.recipies-details-second{
+    background-color: white;
+    margin-bottom: 50px;
+}
+.foodies{
+    width: 100%;
+}
+.food{
+    width: 30%;
+    margin-right: 5px;
+    margin-left: 25px;
+    padding: 10px;
+
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.special{
+    background-color: white;
+}
+.attribute{
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.case{
+    margin-right: 50px;
+    margin-left: 180px;
+}.case-second{
+    background-color: black;
+    color: white;
     text-align: center;
 }
