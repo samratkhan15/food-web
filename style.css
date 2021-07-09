@@ -1,0 +1,42 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 5%;
+}
+.orange-color{
+    color: coral;
+}
+.link-button{
+    background-color: rgb(106, 80, 255);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    background-image: linear-gradient(tomato salmon);
+    color: white;
+    font-weight: 700;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+
+.flexible-container{
+    display:flex ;
+    margin-bottom: 150px;
+}
+.top-banner{
+    background-image:url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+
+h3{
+    text-align: center;
+}
+
+.reci{
+    text-align: center;
+}
