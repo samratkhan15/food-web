@@ -54,6 +54,7 @@ h3{
 
 .recipies-details{
     text-align: center;
+    
 }
 
 
@@ -64,6 +65,7 @@ h3{
 .recipies-details-second{
     background-color: white;
     margin-bottom: 50px;
+    display: flex;
 }
 .foodies{
     width: 100%;
@@ -73,16 +75,18 @@ h3{
     margin-right: 5px;
     margin-left: 25px;
     padding: 10px;
-
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+    
 }
 .special{
     background-color: white;
+    display: flex;
 }
 .attribute{
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+    display: flex;
 }
 .case{
     margin-right: 50px;
@@ -92,3 +96,50 @@ h3{
     color: white;
     text-align: center;
 }
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+#login{
+    color: black;
+    background-color: rgb(255, 80, 80);
+     text-decoration: none;
+     padding: 10px 40px;
+     border-radius: 20px;
+    background-image: linear-gradient(tomato salmon);
+     color: white;
+     font-weight: 700;
+    
+}
+
+.container{
+    color: black;
+    background-color: rgb(156, 80, 255);
+     text-decoration: none;
+     padding: 10px 40px;
+     border-radius: 20px;
+    background-image: linear-gradient(tomato salmon);
+     color: white;
+     font-weight: 700;
+
+
+}
+
+.title{
+    text-align: center;
+    color: black;
+}
+
+
+footer{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.gray{
+    color: gray;
+}
+.item{
+    display: flex;
+}
+
